@@ -16,8 +16,6 @@
 ### …or push an existing repository from the command line…or push an existing repository from the command line
 
 > git remote add origin https://github.com/rennysky/aaaaa.git
-
-> git remote add origin https://github.com/rennysky/aaaaa.git
  
 > git push -u origin mastergit push -u origin master
 
